@@ -1,0 +1,12 @@
+tl,tp,tp,tp,tp,td,td,tp,tp,tp,tp,tr
+el,cs,ts,ts,ts,ms,ms,ts,ts,ts,ts,er
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+ld,ms,ms,ms,ms,ms,ms,ms,ms,ms,ms,rd
+ld,ms,ms,ms,ms,ms,ms,ms,ms,ms,ms,rd
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+el,ls,ms,ms,ms,ms,ms,ms,ms,ms,ms,er
+bl,bp,bp,bp,bp,bd,bd,bp,bp,bp,bp,br

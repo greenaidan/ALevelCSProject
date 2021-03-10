@@ -1,0 +1,7 @@
+Changes:
+- You can now only collect 30 life points
+- The life points are displayed on a meter at the top of the screen
+- Once you have 30 lifepoints you can place a coffin
+- When you die, your player progress resets to that coffin. The map progress doesn't.
+
+Issues:
